@@ -1,4 +1,4 @@
-## TensorFlow Implementation of general tensor-network models in sequencial modeling
+## General tensor-network models in sequencial modeling (TensorFlow version)
 
 This part of code is based on Yu's [original repository](https://github.com/yuqirose/TensorRNN) for the work on higher-order nonlinear dynamics[<sup>1</sup>](http://www.stephanzheng.com/pdf/Yu_Zheng_Learning_Chaotic_Dynamics_using_Tensor_Recurrent_Neural_Networks_icml_2017.pdf). 
 We have extended the original tensor-train RNN model int 3 directions:
