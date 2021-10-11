@@ -6,4 +6,4 @@ Besides, there is a set of [additional models](https://github.com/owenyoung75/ME
 This set of models are closely related to the tensorization idea we proposed in the manuscript, while taking advantage of different variables instead of cell states, which is more related to another [seminar work by R. Yu in ICML](http://www.stephanzheng.com/pdf/Yu_Zheng_Learning_Chaotic_Dynamics_using_Tensor_Recurrent_Neural_Networks_icml_2017.pdf) on higher order nonlinear dynamics. 
 We have extended the original tensor-train RNN to more general tensorized structures. 
 
-We welcom further discussion from readers with interests.
+Further discussions from readers with interests would be welcomed.
