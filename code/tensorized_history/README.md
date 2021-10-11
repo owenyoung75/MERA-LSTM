@@ -1,6 +1,6 @@
 ## TensorFlow Implementation of general tensor-network models in sequencial modeling
 
-This part of code is based on Yu's [original repository](https://github.com/yuqirose/TensorRNN) for the work on higher-order nonlinear dynamics[(1)](http://www.stephanzheng.com/pdf/Yu_Zheng_Learning_Chaotic_Dynamics_using_Tensor_Recurrent_Neural_Networks_icml_2017.pdf). 
+This part of code is based on Yu's [original repository](https://github.com/yuqirose/TensorRNN) for the work on higher-order nonlinear dynamics[^1](http://www.stephanzheng.com/pdf/Yu_Zheng_Learning_Chaotic_Dynamics_using_Tensor_Recurrent_Neural_Networks_icml_2017.pdf). 
 We have extended the original tensor-train RNN model int 3 directions:
 1. tensorization in either hidden state or cell state;
 2. tensorizaed representation in either polynomial space or timelag-lattice space;
